@@ -1,26 +1,26 @@
 {
-  "versionCode": 109,
-  "versionName": "1.0.9",
+  "versionCode": 110,
+  "versionName": "1.0.10",
   "client": {
-    "versionCode": 109,
-    "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v109/huella-cliente.apk"
+    "versionCode": 110,
+    "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v110/huella-cliente.apk"
   },
   "merchants": {
     "bajo-zero": {
-      "versionCode": 109,
-      "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v109/Huella-Comercio-bajo-zero.apk"
+      "versionCode": 110,
+      "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v110/Huella-Comercio-bajo-zero.apk"
     },
     "bocatto-bistro-grill": {
-      "versionCode": 109,
-      "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v109/Huella-Comercio-bocatto-bistro-grill.apk"
+      "versionCode": 110,
+      "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v110/Huella-Comercio-bocatto-bistro-grill.apk"
     },
     "cafe-la-estacion": {
-      "versionCode": 109,
-      "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v109/Huella-Comercio-cafe-la-estacion.apk"
+      "versionCode": 110,
+      "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v110/Huella-Comercio-cafe-la-estacion.apk"
     },
     "cedral-reserva": {
-      "versionCode": 109,
-      "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v109/Huella-Comercio-cedral-reserva.apk"
+      "versionCode": 110,
+      "apkUrl": "https://github.com/hotcakes-py/huella-releases/releases/download/v110/Huella-Comercio-cedral-reserva.apk"
     }
   }
 }
